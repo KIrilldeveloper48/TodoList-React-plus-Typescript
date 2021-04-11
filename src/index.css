@@ -16,3 +16,12 @@ code {
   padding-left: 1rem;
   padding-right: 1rem;
 }
+
+.input-field {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+}
+
+.input-field label {
+  font-size: 2rem;
+}
