@@ -3,7 +3,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/made%20by-KIrilldeveloper48-blue.svg" >
-<img src="https://img.shields.io/badge/react-16.14.0-green.svg">
+<img src="https://img.shields.io/badge/react-17.0.2-green.svg">
 <img src="https://img.shields.io/badge/Typescript-4.2.4-green.svg">
 <img src="https://img.shields.io/github/languages/top/KIrilldeveloper48/TodoList-React-plus-Typescript.svg">
 
